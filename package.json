@@ -3,9 +3,6 @@
   "version": "14.1.7",
   "description": "A useful MediaWiki JavaScript Plugin written with jQuery",
   "main": "index.js",
-  "dependencies": {
-    "@dragon-fish/bump": "^0.0.13"
-  },
   "devDependencies": {
     "@babel/core": "^7.12.10",
     "@babel/preset-env": "^7.12.11",
